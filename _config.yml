@@ -111,7 +111,7 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-admin
 
