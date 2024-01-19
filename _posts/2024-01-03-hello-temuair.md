@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to dylanlan.ninja!"
+title:  "Welcome to dylantest.dev!"
 date:   2024-01-08
 categories: awakening
 ---
