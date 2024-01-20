@@ -2,9 +2,10 @@
 layout: post
 author: Dylanlan
 title:  "The Porte Moose Chainmail Experiment"
-date:   2024-01-14
+date:   2024-01-15
 categories: adventure
-thumbnail: /assets/img/thumbnails/porte-experiment.png
+header: thumbnails/porte-experiment-header.png
+thumbnail: thumbnails/porte-thumbnail.png
 ---
 
 Word was spreading of a terrifying beast in a forest near Suomi Village. However, rumour was that the beast would not present itself to stronk Aislings, knowing that its fate would be sealed. Protein was definitely a stronk Aisling and was therefore banned. So he had to enlist some help from his younger brothers, Moose and ChainMail, to help figure out what was a happenin' in Suomi.
