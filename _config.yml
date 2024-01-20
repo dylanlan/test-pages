@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  A collection of adventures, information, and projects from Dylanlan, all related to the 2000s MMORPG called <a href="https://www.darkages.com" target="_blank">Darkages</a>
 
 url: "https://dylantest.dev" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
