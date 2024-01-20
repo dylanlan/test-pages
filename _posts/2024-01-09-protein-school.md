@@ -8,6 +8,9 @@ categories: adventure
 Protein, having recently reached his 93rd birth-deoch ((11 years old)), decided that it was finally an appropriate time to look into getting an education! Better late than never, people sometimes say~
 
 Protein had been a bit busy hunting a rabid wolf, and ended up tardily barging into class, mid-lecture. Time management, Protein! It's important if you want to keep your grades up!
+
+(Coming soon: more descriptions of these memories)
+
 ![Tardy Entrance](/assets/img/college/late-to-class.png)
 
 ![Professor](/assets/img/college/professor.png)

@@ -8,6 +8,9 @@ categories: adventure
 After our recent religious visit, we decided to do another quest!
 
 There had been stories of a dwarf named Throttler, deep in the Woodlands of the West. Rumours said that he needed help "taking care of" a rabid wolf. We didn't want this dangerous wolf sending poor innocent Aislings to meet Sgrios. So we happily volunteered as tribute!
+
+(Coming soon: more descriptions of these memories)
+
 ![Wolf Start](/assets/img/adventures/west-woodland-wolf/wolf-start.png)
 
 ![Wolf Area](/assets/img/adventures/west-woodland-wolf/wolf-area.png)

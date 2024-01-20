@@ -5,17 +5,17 @@ date:   2024-01-16
 categories: awakening
 ---
 
-Welcome to my personal fan website for Darkages! You can find various links on the left navigation menu:
+Welcome to my personal fan website for Darkages! You can find some links at the top of the site, or in a 3-line "hamburger" menu:
 
-- Adventure Log for some in-game screenshots
-- Getting Started guide
-- Guild for some information about a recently connected group of friends
-- Letters for some in-game mailed letters
-- Links to other Darkages fan sites
-- Mileth College to learn about learning
-- Misc for anything that doesn't fit nicely in a category
-- Name Lottery for claiming a new character name
-- Religion for some in-game lore (NEW: Deoch Mass!)
-- Silly Games for some meta-games (NEW: World Records!)
+- About: a brief introduction for myself
+- Adventure Log: various new (2024+) in-game screenshots and narrations
+- Memories: a collection of old in-game screenshots, mostly from 2006-2010
 
-NOTE: I'm planning to use a different website theme in the coming days. Do not be alarmed if everything looks very different soon!
+
+(Coming Soon:)
+- Getting Started guide: interested in joining this crazy game??
+- Links: other immensely useful Darkages websites
+- Misc: various things that don't fit into a nice category yet
+- Projects: a few fun games / projects that I want to work on
+
+NOTE: I recently updated the design of this site - please let me know if anything looks broken on your device! Thanks!

@@ -8,6 +8,7 @@ categories: religion
 The Sradagan guild's very first mass is quite fitting for such a squirrely group of Aislings. We've had many almost-disasters during hunting, nearly knocking on Sgrios's door multiple times. It's therefore quite appropriate that we just barged right on in to his sacred Shrine, wanting to pay a visit.
 
 Sgrios's Shrine is not a very easy one to find, however. Protein nearly ended up meeting Sgrios in-person, merely by trying to visit his Shrine. Coming soon: reflective descriptions of these memories
+
 ![Sgrios Welcome](/assets/img/sgrios/sgrios-welcome.png)
 
 ![Before Mass](/assets/img/sgrios/pre-mass.png)
