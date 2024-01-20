@@ -2,7 +2,7 @@
 layout: post
 author: Dylanlan
 title:  "The Porte Moose Chainmail Experiment"
-date:   2024-01-15
+date:   2024-01-14
 categories: adventure
 header: thumbnails/porte-experiment-header.png
 thumbnail: thumbnails/porte-thumbnail.png
