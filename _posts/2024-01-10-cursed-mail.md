@@ -8,9 +8,6 @@ header: cursed-mail/no-cursing.png
 
 For those unaware, you can send mail letters in Darkages. However, there are certain words that you are not allowed to send. If you include one of them, you'll just get an unhelpful message saying that you're using a curse word.
 
-![No Cursing Popup](/assets/img/cursed-mail/no-cursing.png)
-
-
 It's not obvious which words are disallowed, and it can be very tricky to figure out what's wrong. Let's play a "fun" game of guess-the-bad-word!
 
 Try to figure out which word in each of these mail letters is making it undeliverable:
