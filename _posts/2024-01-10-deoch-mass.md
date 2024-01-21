@@ -3,6 +3,8 @@ layout: post
 title:  "Deoch Mass"
 date:   2024-01-10
 categories: religion
+header: thumbnails/deoch-mass-header.png
+thumbnail: thumbnails/deoch-mass-thumbnail.png
 ---
 
 After attending such an eventful [Sgrios Mass]({{ site.data.urls.sgrios_mass }}), the Sradagan Fellowship decided to attend a regularly scheduled Deoch mass. The same such one that helped with [NaLyd's Reawakening]({{ site.data.urls.nalyd_reawaken }})! Protein wanted to learn, and NaLyd wished to become a worshipper.

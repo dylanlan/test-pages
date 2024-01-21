@@ -3,6 +3,8 @@ layout: post
 title:  "Cthonic Remains 10"
 date:   2024-01-07
 categories: adventure
+header: thumbnails/cr10-header.png
+thumbnail: thumbnails/cr10-thumbnail.png
 ---
 
 Emboldened by our string of sucesses, we decided to venture into a very cursed and macabre area. Rumours had been spreading about some powerful monsters deep below some decrepit houses, which could yield many tasty experience points for our journey to acquire more insight. Some had even mentioned sightings of ancient mummies, walking the earth once again. Just a rural legend, or an actual fact? We were determined to find out!

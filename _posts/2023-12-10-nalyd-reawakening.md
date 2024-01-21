@@ -3,6 +3,8 @@ layout: post
 title:  "NaLyd Reawakening"
 date:   2023-12-10
 category: ['awakening']
+header: thumbnails/nalyd-reawakening-header.png
+thumbnail: thumbnails/nalyd-reawakening-thumbnail.png
 ---
 
 Here's a bit more history and context about some motivations for helping create the Sradagan guild, for anyone curious!

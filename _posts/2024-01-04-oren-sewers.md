@@ -3,6 +3,8 @@ layout: post
 title:  "Oren Sewers"
 date:   2024-01-04
 categories: adventure
+header: thumbnails/oren-sewers-header.png
+thumbnail: thumbnails/oren-sewers-thumbnail.png
 ---
 
 In our [previous quest]({{ site.data.urls.lynith_sea }}), we discovered that the secret buried treasure was an Oren Key whichy granted access to the sewers underneath Oren City. Why would access to sewers be considered treasure, one might ask? We certainly had no idea! But adventure awaits none the less! It was such an exciting quest, in fact, that _some_ of us forgot to cement our Aisling memories for future reflection - too caught up in the excitement of the moment. Oh well!

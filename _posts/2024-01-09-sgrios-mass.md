@@ -3,6 +3,8 @@ layout: post
 title:  "Sgrios Mass"
 date:   2024-01-09
 categories: religion
+header: thumbnails/sgrios-mass-header.png
+thumbnail: thumbnails/sgrios-mass-thumbnail.png
 ---
 
 The Sradagan guild's very first mass is quite fitting for such a squirrely group of Aislings. We've had many almost-disasters during hunting, nearly knocking on Sgrios's door multiple times. It's therefore quite appropriate that we just barged right on in to his sacred Shrine, wanting to pay a visit.

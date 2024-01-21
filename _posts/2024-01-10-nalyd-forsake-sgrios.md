@@ -3,6 +3,8 @@ layout: post
 title:  "NaLyd Forsakes Sgrios"
 date:   2024-01-10
 categories: awakening
+header: thumbnails/sgrios-forsook-header.png
+thumbnail: thumbnails/sgrios-forsook-thumbnail.png
 ---
 
 NaLyd, having been a Worshipper of Sgrios for 125 long deochs, decides that it has been long enough. It is time to find a new deity to worship. NaLyd prefers something else, over decay.

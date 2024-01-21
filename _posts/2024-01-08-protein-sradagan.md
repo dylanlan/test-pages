@@ -3,6 +3,8 @@ layout: post
 title:  "Sradagan Awakening"
 date:   2024-01-08
 categories: awakening
+header: thumbnails/sradagan-header.png
+thumbnail: thumbnails/sradagan-thumbnail.png
 ---
 
 On this day, the Sradagan Fellowship was created by PaladinJack! Protein promptly joined afterwards.

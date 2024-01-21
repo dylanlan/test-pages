@@ -3,6 +3,8 @@ layout: post
 title:  "Wolf of West Woodlands"
 date:   2024-01-09
 categories: adventure
+header: thumbnails/wolf-header.png
+thumbnail: thumbnails/wolf-thumbnail.png
 ---
 
 After our recent religious visit, we decided to do another quest!

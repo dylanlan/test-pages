@@ -3,6 +3,8 @@ layout: post
 title:  "Protein goes to School"
 date:   2024-01-09
 categories: adventure
+header: thumbnails/college-header.png
+thumbnail: thumbnails/college-thumbnail.png
 ---
 
 Protein, having recently reached his 93rd birth-deoch ((11 years old)), decided that it was finally an appropriate time to look into getting an education! Better late than never, people sometimes say~

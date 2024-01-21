@@ -3,6 +3,8 @@ layout: post
 title:  "Lynith Sea"
 date:   2024-01-03
 categories: adventure
+header: thumbnails/lynith-sea-header.png
+thumbnail: thumbnails/lynith-sea-thumbnail.png
 ---
 
 The mighty Aisling Protein's very first group quest began at Lynith Beach. We had heard rumours of there being some buried treasure under the sea, but we didn't have any idea how to find it! Someone had told us that the nearby Pirate Ship might have some clues, however.

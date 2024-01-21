@@ -3,6 +3,8 @@ layout: post
 title:  "Moose: Terror of the Crypt"
 date:   2024-01-11
 categories: adventure
+header: thumbnails/terror-moose-header2.png
+thumbnail: thumbnails/terror-moose-thumbnail.png
 ---
 
 The Mighty Protein had heard rumours of a terrible monster lurking within Mileth Crypt. Protein himself was way too stronk for such a quest, however, and would surely cause more destruction than was necessary.

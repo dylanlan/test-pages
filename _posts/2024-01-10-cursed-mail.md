@@ -3,6 +3,7 @@ layout: post
 title:  "Cursed Mail"
 date:   2024-01-10
 categories: games
+header: cursed-mail/no-cursing.png
 ---
 
 For those unaware, you can send mail letters in Darkages. However, there are certain words that you are not allowed to send. If you include one of them, you'll just get an unhelpful message saying that you're using a curse word.
